@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <img src="https://www.tensorflow.org/images/tf_logo_transp.png"><br><br>
 </div>
@@ -67,3 +68,6 @@ Hello, TensorFlow!
 * [TensorFlow MOOC on Udacity](https://www.udacity.com/course/deep-learning--ud730)
 
 The TensorFlow community has created amazing things with TensorFlow, please see the [resources section of tensorflow.org](https://www.tensorflow.org/versions/master/resources#community) for an incomplete list.
+=======
+# -android-tensorflow_sr
+>>>>>>> 890ae20f8cc259cb39ce93132d85d54e86363210
